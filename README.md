@@ -51,6 +51,24 @@ python3 -m http.server 8080   # depois acesse http://localhost:8080
 - `style.css` — visual da página e controles mobile
 - `game.js` — motor do jogo (fase, física, colisões, inimigos, desenho, HUD)
 
+## Branches
+
+| Branch | Uso |
+|--------|-----|
+| `main` | Versão estável, publicada no GitHub Pages |
+| `dev`  | Desenvolvimento e cópia de segurança do código |
+
+Fluxo de trabalho: as alterações são feitas e testadas na `dev` e depois integradas na `main` com merge.
+
+```bash
+git checkout dev          # trabalhar na dev
+git add . && git commit -m "descrição da mudança"
+git push origin dev
+git checkout main         # integrar na main
+git merge dev
+git push origin main
+```
+
 > Projeto de fã, sem fins lucrativos. Mario é marca registrada da Nintendo.
 
 ## Licença
