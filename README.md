@@ -1,4 +1,7 @@
 # Jogo Mario
+
+### 🎮 [Jogar agora: renatopedrosa-ops.github.io/jogo-mario](https://renatopedrosa-ops.github.io/jogo-mario/)
+
 ## Integrantes 
 | Nome           | Matrícula | Papel         | 
 |----------------|-----------|---------------|
