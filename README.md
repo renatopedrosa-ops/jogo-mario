@@ -6,6 +6,7 @@
 |Kauã da Silva Melo |01875354|Desenvolvedor|
 |Carlos Eduardo Vieira de Carvalho| 01707600 |Documentador|
 |Renato Pedrosa Maranhão|01892670 | Desenvolvedor|
+
 Jogo de plataforma no estilo Super Mario feito com **HTML5 Canvas + CSS + JavaScript puro** (sem bibliotecas, sem imagens: todos os gráficos e sons são gerados por código).
 
 ## Como jogar
